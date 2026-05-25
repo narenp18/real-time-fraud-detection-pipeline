@@ -178,19 +178,5 @@ fraud-detection-system/
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
-
----
-
-## Contributing
-
-Feel free to open issues or create pull requests to enhance the project.
-
----
-
-## Contact
-
-For any inquiries, please contact [iit.ravindra@gmail.com](mailto:iit.ravindra@gmail.com).
 
